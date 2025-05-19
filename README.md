@@ -79,3 +79,5 @@ This Power BI dashboard provides comprehensive insights into pizza sales perform
 ## 📜 License
 
 This project is for educational and portfolio purposes. If you use or share it, please credit the original author.
+
+## Dashboard Image = (https://github.com/SnehaRameshKawale/Data_analytics_Pizza_Dashboard/blob/main/DashboardImg.png)
